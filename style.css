@@ -1,0 +1,80 @@
+body {
+    background-image: url("images/old_moon.png");
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    .
+}
+
+.navbar-header {
+    background-color: #4aaaa5;
+    margin: 0px;
+}
+
+.navbar .container .navbar-brand {
+    margin: 0px 0px 0px 0px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+
+.navbar-toggle {
+    background-color: #ffffff;
+}
+
+h1,
+h3 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.margin-bottom {
+    margin-bottom: 15px;
+}
+
+#mainSection h3 {
+    /*background-color: #4aaaa5;*/
+    /*color: #ffffff;*/
+    /*width: 89%;*/
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+#mainSection,
+#sideBar {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 100px;
+}
+
+#sideBar {
+    margin-bottom: 100px;
+}
+
+.margin-top {
+    margin-top: 15px;
+}
+
+#button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #666666;
+    border-top: 4px solid #4aaaa5;
+}
+
+.text-muted {
+    color: #cccccc;
+}
