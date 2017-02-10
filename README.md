@@ -3,7 +3,7 @@ In this assignment, I created a website using bootstrap to understand mobile-res
 
 
 ## Live Link (GitHub Pages)
-- https://mz1387.github.io/Bootstrap-Portfolio/
+- https://mz1387.github.io/HW_Bootstrap-Portfolio/
 
 
 ## Requirements
